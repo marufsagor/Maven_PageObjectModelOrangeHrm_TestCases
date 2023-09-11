@@ -1,2 +1,2 @@
-# Maven_PageObjectModelOrangeHrm_TestCases
+# Maven_PageObjectModelOrangeHrm_TestCases_Automation
 Maven_POM_OrangeHrm_SomeTestCases
